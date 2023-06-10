@@ -18,5 +18,6 @@ I also visualized players to see how their xG and xGOT correlated to each other,
 which player has better chances and which player has better shot placing ability.
 
 ## Articles
-I wrote an article about the xG model, and soon the xGOT model
+I wrote two articles regarding this project
 - [How to Build Your Own Expected Goals (xG) Model](https://medium.com/@alf.19x/how-to-build-your-own-expected-goals-xg-model-2bd186dccdf7)
+- [How to Build Your Own Expected Goals on Target (xGOT) Model](https://medium.com/@alf.19x/how-to-build-your-own-expected-goals-on-target-xgot-fd05df894c38)
